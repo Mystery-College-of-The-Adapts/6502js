@@ -2,7 +2,7 @@
 *  6502 assembler and simulator in Javascript
 *  (C)2006-2010 Stian Soreng - www.6502asm.com
 *
-*  Adapted by Nick Morgan
+*  Adapted by Nick Morgan & B'Random Riq
 *  https://github.com/skilldrick/6502js
 *
 *  Released under the GNU General Public License
